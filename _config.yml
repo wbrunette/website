@@ -184,6 +184,8 @@ kramdown:
 
 # Collections
 collections:
+  deployments_feed:
+    output: false
   docs:
     output: true
     permalink: /:collection/:path/

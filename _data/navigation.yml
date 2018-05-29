@@ -22,6 +22,8 @@ community:
     children:
     - title: "Blog"
       url: /blog/
+    - title: "Deployments"
+      url: /community/deployments/
     - title: "Ecosystem"
       url: /community/ecosystem/
     - title: "Governance"
